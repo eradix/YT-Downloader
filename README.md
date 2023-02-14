@@ -1,4 +1,4 @@
-# py_mp3video_downloader
+# py mp3 and video downloader
 Mp3 and video downloader
 
 This repo is written in python.
